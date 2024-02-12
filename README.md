@@ -55,7 +55,7 @@ open a new terminal by pressing ctr+shift+`
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the AGPL License. See `LICENSE` for more information.
 
 
 
