@@ -62,5 +62,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-TonyCui02@gmail.com
+Originally forked from https://github.com/TonyCui02/grocer
 # how_meke
