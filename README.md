@@ -1,5 +1,5 @@
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## # How_meke?
 A webapp that provides price comparison between supermarkets. This project is non-profit and aims to help those suffering from food insecurity.
 
 ![demo](https://user-images.githubusercontent.com/61865484/105789078-a4fb9500-5fe6-11eb-814d-c40532467fe3.png)
@@ -63,4 +63,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 Originally forked from https://github.com/TonyCui02/grocer
-# how_meke
+
